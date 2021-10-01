@@ -1,4 +1,8 @@
 # PetSocial
+
+# Introduction
+Join us in sharing our wonderful pets! Pets are lovable and amazing creatures. On our app you will be able to interact with other Pet owner's content.
+
 User Experience
 ![user_stories](https://user-images.githubusercontent.com/79170369/135670416-35734ebb-cd44-4b89-ae83-49fde5eb87d0.png)
 
